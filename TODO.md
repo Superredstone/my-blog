@@ -1,0 +1,2 @@
+- [ ] Post page
+- [ ] Add links to profiles in the index
